@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://avatars.githubusercontent.com/u/216576385?v=4"
+  <img  src="data/Cover.png"
        alt="snake" /></a>
 </div>
 
