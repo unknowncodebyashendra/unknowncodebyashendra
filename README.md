@@ -104,8 +104,8 @@
 </p>
 
 <p align="center">
-<h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/unknowncodebyashendra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="unknowncodebyashendra" /></a></p><br><br>
+  <h3 align="center">Support Me:</h3>
+  <p align="center"><a href="https://www.buymeacoffee.com/unknowncodebyashendra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"       alt="unknowncodebyashendra" /></a></p><br><br>
 </p>
 
 <!--profile visit count-->
