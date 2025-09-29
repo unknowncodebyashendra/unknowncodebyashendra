@@ -1,4 +1,4 @@
-
+<body><script>background-color="#00000"</script></body>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -12,6 +12,7 @@
 
 <!--- snake -->
 <div align="center">
+  <a herf="https://ashendra.web.app">
   <img  src="data/Cover.png"
        alt="snake" /></a>
 </div>
